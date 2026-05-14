@@ -1,0 +1,22 @@
+.container {
+  width: 100%;
+  max-width: 30rem;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
+
+.hero .art {
+  max-width: 100%;
+}
+
+.hero .caption {
+  font-size: 0.8rem;
+}
+
+.divider {
+  height: 1rem;
+  width: 100%;
+  max-width: 30rem;
+  margin: 0 auto;
+  border-top: 1px solid;
+}
